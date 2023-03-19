@@ -50,3 +50,4 @@ Project done during Full Stack Software Engineering studies at ALX Africa school
 [18-commas](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/103-commas)	Lists all the files and directories of the current directory, separated by commas (,)
 
 [school.mgc](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/school.mgc)	Magic file that can be used with the command file to detect school data files. school data files always contain the string school at offset 0
+
