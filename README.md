@@ -4,7 +4,7 @@
 
 # What's Devops?
 
-![alt text](https://www.tibco.com/sites/tibco/files/media_entity/2021-04/Dev-ops-01.svg "Devops")
+![alt text](https://orangematter.solarwinds.com/wp-content/uploads/2022/03/DevOps-lifecycle-capabilities-1024x621.png "Devops")
 DevOps combines development and operations to increase the efficiency, speed, and security of software development and delivery compared to traditional processes. A more nimble software development lifecycle results in a competitive advantage for businesses and their customers.
 
 # About
@@ -12,8 +12,8 @@ ALX offers job-ready training in the tech fields employers need most. ALX, in pa
 
 # Technologies
 
-..* Scripts written in Bash 4.3.11(1).
-..* Tested on Ubuntu 14.04 LTS.
+1. Scripts written in Bash 4.3.11(1).
+2. Tested on Ubuntu 14.04 LTS.
 
 ## Projects
 
