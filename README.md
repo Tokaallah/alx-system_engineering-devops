@@ -18,6 +18,9 @@ ALX offers job-ready training in the tech fields employers need most. ALX, in pa
 ## Projects
 
 [0x00-shell_basics](https://github.com/Tokaallah/alx-system_engineering-devops/tree/master/0x00-shell_basics).
-[0x01-shell_permissions](https://github.com/Tokaallah/alx-system_engineering-devops/tree/master/0x01-shell_permissions)
-[0x02-shell_redirections](https://github.com/Tokaallah/alx-system_engineering-devops/tree/master/0x02-shell_redirections)
-[0x03-shell_variable_expansions](https://github.com/Tokaallah/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions)
+
+[0x01-shell_permissions](https://github.com/Tokaallah/alx-system_engineering-devops/tree/master/0x01-shell_permissions).
+
+[0x02-shell_redirections](https://github.com/Tokaallah/alx-system_engineering-devops/tree/master/0x02-shell_redirections).
+
+[0x03-shell_variable_expansions](https://github.com/Tokaallah/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions).
