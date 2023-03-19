@@ -2,49 +2,51 @@
 # Shell, Basics
 
 Project done during Full Stack Software Engineering studies at ALX Africa school. It aims to learn about basics commands, navigation, files and directories in Shell.
-## Technologies
 
-Scripts written in Bash 4.3.11(1)
+# Technologies
 
-Tested on Ubuntu 14.04 LTS
+1. Scripts written in Bash 4.3.11(1)
 
-## Projects
-0-current_working_directory	Prints the absolute path name of the current working directory
+2. Tested on Ubuntu 14.04 LTS
 
-1-listit	Displays the content list of the current directory
+# Projects
 
-2-bring_me_home	Changes the working directory to the user's home directory
+[0-current_working_directory](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/0-current_working_directory)	Prints the absolute path name of the current working directory
 
-3-list_files	Displays current directory contents in a long format
+[1-listit](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/1-listit)	Displays the content list of the current directory
 
-4-listmorefiles	Displays, in the long format, current directory contents, including hidden files
+[2-bring_me_home](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/2-bring_me_home)	Changes the working directory to the user's home directory
 
-5-listfilesdigitonly	Displays current directory contents with user and group IDs
+[3-list_files](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/3-listfiles)	Displays current directory contents in a long format
 
-6-firstdirectory	Creates a directory named holberton in the /tmp/ directory
+[4-listmorefiles](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/4-listmorefiles)	Displays, in the long format, current directory contents, including hidden files
 
-7-movethatfile	Moves the file betty from /tmp/ to /tmp/holberton
+[5-listfilesdigitonly](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/5-listfilesdigitonly)	Displays current directory contents with user and group IDs
 
-8-firstdelete	Deletes the file betty
+[6-firstdirectory](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/6-firstdirectory)	Creates a directory named holberton in the /tmp/ directory
 
-9-firstdirdeletion	Deletes the directory holberton that is in the /tmp directory
+[7-movethatfile](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/7-movethatfile)	Moves the file betty from /tmp/ to /tmp/holberton
 
-10-back	Changes the working directory to the previous one
+[8-firstdelete](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/8-firstdelete)	Deletes the file betty
 
-11-lists	Lists all files in the current directory and its parent directory and the /boot directory
+[9-firstdirdeletion](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/9-firstdirdeletion)	Deletes the directory holberton that is in the /tmp directory
 
-12-file_type	Prints the type of the file named iamafile that is in the /tmp directory
+[10-back](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/10-back)	Changes the working directory to the previous one
 
-13-symbolic_link	Creates a symbolic link to /bin/ls, named __ls__
+[11-lists](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/11-lists)	Lists all files in the current directory and its parent directory and the /boot directory
 
-14-copy_html	Copies all the HTML files from the current working directory to the parent directory, but only copies files that did not exist in the parent directory
+[12-file_type](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/12-file_type)	Prints the type of the file named iamafile that is in the /tmp directory
 
-15-lets_move	Moves all files beginning with an uppercase letter to the directory /tmp/u
+[13-symbolic_link](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/13-symbolic_link)	Creates a symbolic link to /bin/ls, named __ls__
 
-16-clean_emacs	Deletes all files in the current working directory that end with the character ~
+[14-copy_html](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/14-copy_html)	Copies all the HTML files from the current working directory to the parent directory, but only copies files that did not exist in the parent directory
 
-17-tree	Creates the directories welcome/, welcome/to/ and welcome/to/holberton in the current directory
+[15-lets_move](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/100-lets_move)	Moves all files beginning with an uppercase letter to the directory /tmp/u
 
-18-commas	Lists all the files and directories of the current directory, separated by commas (,)
+[16-clean_emacs](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/101-clean_emacs)	Deletes all files in the current working directory that end with the character ~
 
-school.mgc	Magic file that can be used with the command file to detect school data files. school data files always contain the string school at offset 0
+[17-tree](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/102-tree)	Creates the directories welcome/, welcome/to/ and welcome/to/holberton in the current directory
+
+[18-commas](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/103-commas)	Lists all the files and directories of the current directory, separated by commas (,)
+
+[school.mgc](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x00-shell_basics/school.mgc)	Magic file that can be used with the command file to detect school data files. school data files always contain the string school at offset 0
