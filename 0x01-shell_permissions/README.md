@@ -2,47 +2,49 @@
 # Shell, permissions
 
 Project done during Full Stack Software Engineering studies at ALX Africa school. It aims to learn about basics commands, navigation, files and directories in Shell.
-## Technologies
 
-Scripts written in Bash 4.3.11(1)
+# Technologies
 
-Tested on Ubuntu 14.04 LTS
+1. Scripts written in Bash 4.3.11(1)
 
-## Projects
-0-iam_betty	Changes your user ID to betty
+2. Tested on Ubuntu 14.04 LTS
 
-1-who_am_i	Prints the effective userid of the current user
+# Projects
 
-2-groups	Prints all the groups the current user is part of
+[0-iam_betty](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x01-shell_permissions/0-iam_betty)	Changes your user ID to betty
 
-3-new_owner	Changes the owner of the file hello to the user betty
+[1-who_am_i](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x01-shell_permissions/1-who_am_i)	Prints the effective userid of the current user
 
-4-empty	Creates an empty file called hello
+[2-groups](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x01-shell_permissions/2-groups)	Prints all the groups the current user is part of
 
-5-execute	Adds execute permission to the owner of the file hello
+[3-new_owner](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x01-shell_permissions/3-new_owner)	Changes the owner of the file hello to the user betty
 
-6-multiple_permissions	Adds execute permission to the owner and the group owner, and reads permission to other users, to the file hello
+[4-empty](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x01-shell_permissions/4-empty)	Creates an empty file called hello
 
-7-everybody	Adds execution permission to the owner, the group owner and the other users, to the file hello
+[5-execute](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x01-shell_permissions/5-execute)	Adds execute permission to the owner of the file hello
 
-8-James_Bond	Write a script that sets the permission to the file hello to other users
+[6-multiple_permissions](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x01-shell_permissions/6-multiple_permissions)	Adds execute permission to the owner and the group owner, and reads permission to other users, to the file hello
 
-9-John_Doe	Sets the -rwxr-x-wx permissions to the file hello
+[7-everybody](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x01-shell_permissions/7-everybody)	Adds execution permission to the owner, the group owner and the other users, to the file hello
 
-10-mirror_permissions	Sets the mode of the file hello the same as olleh's mode
+[8-James_Bond](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x01-shell_permissions/8-James_Bond)	Write a script that sets the permission to the file hello to other users
 
-11-directories_permissions	Adds execute permission to all subdirectories of the current directory for the owner, the group of the owner and all the other users
+[9-John_Doe	Sets the](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x01-shell_permissions/9-John_Doe) -rwxr-x-wx permissions to the file hello
 
-12-directory_permissions	Creates a directory called dir_holberton with permissions 751 in the working directory
+[10-mirror_permissions](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x01-shell_permissions/10-mirror_permissions)	Sets the mode of the file hello the same as olleh's mode
 
-13-change_group	Changes the group owner to holberton for the file hello
+[11-directories_permissions](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x01-shell_permissions/11-directories_permissions)	Adds execute permission to all subdirectories of the current directory for the owner, the group of the owner and all the other users
 
-14-change_owner_and_group	Changes the owner to betty and the group owner to holberton for all the files and directories in the working directory
+[12-directory_permissions](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x01-shell_permissions/12-directory_permissions)	Creates a directory called dir_holberton with permissions 751 in the working directory
 
-15-symbolic_link_permissions	Changes the owner and the group owner of the file _hello to betty and holberton respectively
+[13-change_group](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x01-shell_permissions/13-change_group)	Changes the group owner to holberton for the file hello
 
-16-if_only	Changes the owner of the file hello to betty only if it is owned by the user guillaume
+[14-change_owner_and_group](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x01-shell_permissions/100-change_owner_and_group)	Changes the owner to betty and the group owner to holberton for all the files and directories in the working directory
 
-100-Star_Wars	Plays the Star Wars IV episode in the terminal
+[15-symbolic_link_permissions](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x01-shell_permissions/101-symbolic_link_permissions)	Changes the owner and the group owner of the file _hello to betty and holberton respectively
 
-101-man_holberton	Man page
+[16-if_only](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x01-shell_permissions/102-if_only)	Changes the owner of the file hello to betty only if it is owned by the user guillaume
+
+[100-Star_Wars](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x01-shell_permissions/103-Star_Wars)	Plays the Star Wars IV episode in the terminal
+
+[101-symbolic_link_permissions](https://github.com/Tokaallah/alx-system_engineering-devops/blob/master/0x01-shell_permissions/.101-symbolic_link_permissions.swo)	Man page
