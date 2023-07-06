@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# Get the listening sockets and their details
+listening_sockets=$(netstat -tlnp 2>/dev/null | awk '/^tcp/ {print $4, $7}')
+
+# Loop through each listening socket
+while read -r socket_details; do
+    # Extract the IP and port from the socket details
+    ip=$(echo "$socket_details" | awk -F: '{print $1}')
+    port=$(echo "$socket_details" | awk -F: '{print $2}')
+
+    # Get the PID and program name associated with the socket
+    pid=$(echo "$socket_details" | awk '{split($NF,a,"/"); print a[1]}')
+    program=$(echo "$socket_details" | awk '{split($NF,a,"/"); print a[2]}')
+
+    # Print the socket details along with the PID and program name
+    echo "Socket: $ip:$port"
+    echo "PID: $pid"
+    echo "Program: $program"
+    echo
+done <<< "$listening_sockets"
+
