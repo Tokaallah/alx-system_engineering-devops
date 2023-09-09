@@ -48,5 +48,5 @@ frontend www-https
 backend nodes
         redirect scheme https if !{ ssl_fc }
         balance roundrobin
-        server web-01 35.231.71.122:80 check
-        server web-02 35.196.73.169:80 check
+        server web-01 52.87.154.94:80 check
+        server web-02 100.25.160.4:80 check
