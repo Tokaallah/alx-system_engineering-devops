@@ -1,3 +1,5 @@
+![1590750477445](https://github.com/Tokaallah/alx-system_engineering-devops/assets/54765267/1245afc8-b6d3-4e7c-8487-640e77333cb7)
+
 **Issue Summary:**
 - **Duration**: 4 hours, from 10:00 AM to 2:00 PM (UTC)
 - **Impact**: Affecting our web application, causing a 30% decrease in user access.
